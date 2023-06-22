@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
-import Avatar from './Avatar';
+import Avatar from './JS/Avatar';
 import Button from './Button';
 
 const UserProfile = ({ name, age, bio, avatarSource, onEditProfile }) => (
